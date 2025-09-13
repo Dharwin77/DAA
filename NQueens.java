@@ -118,3 +118,4 @@ public class NQueens {
             scanner.close();
         }
     }
+}
