@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-h
+
 public class NQueens {
 
     // Function to check if it's safe to place a queen at board[row][col]
@@ -119,6 +119,7 @@ public class NQueens {
         }
     }
 }
+
 
 
 
